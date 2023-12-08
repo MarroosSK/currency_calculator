@@ -19,7 +19,7 @@ used
 
 Express.js with typescript, jest for test
 
-# features
+features
 
 - fetched and transformed XML API into JSON
 - possibility to filter data by query "currency", e.g: ?currency=USD at the end of url
