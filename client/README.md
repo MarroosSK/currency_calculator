@@ -2,10 +2,13 @@
 # Currency Calculator FE
 
 
+run app with:
 ```
-**run app with**:  npm run dev
+npm run dev
 ```
+run tests with:
 ```
-**run tests with**:  npm run test
+npm run test
+```
 ```
 

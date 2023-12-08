@@ -1,24 +1,21 @@
 
 # Currency Calculator
 
-Calculator to calculate currency rates.
-
-
-## Screenshots
-
 ![App Screenshot](https://i.postimg.cc/7hCw1McZ/currency-Calculator.jpg)
 
 
-## Backend
+# Backend
 
+run app with:
 ```
-**run app with**:  npm run dev
+npm run dev
 ```
+run tests with:
 ```
-**run tests with**:  npm test
+npm test
 ```
 
-# used 
+used 
 
 Express.js with typescript, jest for test
 
@@ -27,20 +24,22 @@ Express.js with typescript, jest for test
 - fetched and transformed XML API into JSON
 - possibility to filter data by query "currency", e.g: ?currency=USD at the end of url
 
-## Frontend
+# Frontend
 
+run app with:
 ```
-**run app with**:  npm run dev
+npm run dev
 ```
+run tests with:
 ```
-**run tests with**:  npm run test
+npm run test
 ```
 
-# used 
+used 
 
 React.js, tailwind.css, context API, axios, and vitest + rtl
 
-# features
+features
 
 - fetched data from server
 - can calculate currency rate
